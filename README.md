@@ -1,11 +1,11 @@
 # ArcGIS Python API
 Documentation and samples for the ArcGIS Python API https://developers.arcgis.com/python/ 
 
-[ArcGIS Python API (Beta)](https://developers.arcgis.com/python/)
+[ArcGIS Python API](https://developers.arcgis.com/python/)
 
-[Join the Beta](https://developers.arcgis.com/python/)
+[Join the conversation](https://geonet.esri.com/groups/arcgis-python-api/)
 
-##What's included
+## What's included
 
 * Documentation
 * Sample Notebooks
@@ -13,7 +13,7 @@ Documentation and samples for the ArcGIS Python API https://developers.arcgis.co
 
 ## Requirements
 
-* [See ArcGIS Python API - Install and Set Up](https://developers.arcgis.com/python/guide/Install-and-set-up/)
+* [See ArcGIS Python API - Install and Set Up](https://developers.arcgis.com/python/guide/install-and-set-up/)
 
 ## Resources
 
@@ -28,7 +28,7 @@ Find a bug or want to request a new feature?  Please let us know by submitting a
 Anyone and everyone is welcome to contribute. Please see our [guidelines for contributing](https://github.com/esri/contributing).
 
 ## Licensing
-Copyright 2015 Esri
+Copyright 2016 Esri
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -43,6 +43,3 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 A copy of the license is available in the repository's [license.txt](https://github.com/Esri/arcgis-python-api/blob/master/license.txt) file.
-
-[](Esri Tags: Python ArcGIS API Notebooks)
-[](Esri Language: Python)
